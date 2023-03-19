@@ -1,0 +1,29 @@
+{
+    "results": [{
+            "numId": "1", 
+            "nameDoc": "Первый", 
+            "descriptionDoc": "Самый первый документ", 
+            "signature": "true"
+        },{
+            "numId": "2", 
+            "nameDoc": "Второй", 
+            "descriptionDoc": "Второй документ", 
+            "signature": "true"
+        },{
+            "numId": "3", 
+            "nameDoc": "Третий", 
+            "descriptionDoc": "Третий документ", 
+            "signature": "false"
+        },{
+            "numId": "4", 
+            "nameDoc": "Четвертый", 
+            "descriptionDoc": "Четвертый документ", 
+            "signature": "true"
+        },{
+            "numId": "5", 
+            "nameDoc": "Пятый", 
+            "descriptionDoc": "Пятый элемент", 
+            "signature": "false"
+        }
+    ]
+}
